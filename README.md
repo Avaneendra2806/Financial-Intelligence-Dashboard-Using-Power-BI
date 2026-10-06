@@ -43,6 +43,37 @@ The dashboard includes interactive slicers for:
 
 This allows users to dynamically filter and analyze business performance from different perspectives.
 
+# 📷 Dashboard Preview
+
+The following screenshot provides an overview of the **Financial Intelligence Dashboard**, including key financial KPIs, geographic sales analysis, customer segment performance, product performance, financial flow, and monthly profitability trends.
+
+![Financial Intelligence Dashboard](Screenshots/financial-intelligence-dashboard.png)
+
+### Dashboard Highlights
+
+- 💰 **Total Sales:** $118.73M
+- 📈 **Total Profit:** $16.89M
+- 📊 **Profit Margin:** 14.23%
+- 📦 **Units Sold:** 1.13M
+- 🌍 **Top Country:** France — $24.35M
+- 🏆 **Top Product:** Paseo — $33.01M
+- 👥 **Top Customer Segment:** Government — $52.50M
+- 💸 **Discounts:** $9.21M
+- 🏭 **COGS:** $101.83M
+
+### Dashboard Visualizations
+
+The dashboard includes:
+
+- Sales by Country
+- Country-wise Sales Table
+- Financial Flow from Gross Sales to Profit
+- Sales by Customer Segment
+- Top 5 Products by Sales
+- Monthly Sales & Profit Trend
+- Monthly Profit Margin Trend
+- Interactive Year, Country, Segment, Product, and Discount Band filters
+
 ---
 
 # 🎯 Project Objectives
@@ -62,19 +93,6 @@ This allows users to dynamically filter and analyze business performance from di
 - Compare financial performance across 2013 and 2014.
 - Develop an interactive executive-level Power BI dashboard.
 - Generate actionable business insights for decision-making.
-
----
-
-# 📊 Key Performance Indicators
-
-| KPI | Result |
-|---|---:|
-| 💰 Total Sales | **$118.73M** |
-| 📈 Total Profit | **$16.89M** |
-| 📊 Profit Margin | **14.23%** |
-| 📦 Units Sold | **1.13M** |
-| 🌍 Top Country | **France** |
-| 🏆 Top Product | **Paseo** |
 
 ---
 
