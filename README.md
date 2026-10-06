@@ -43,12 +43,6 @@ The dashboard includes interactive slicers for:
 
 This allows users to dynamically filter and analyze business performance from different perspectives.
 
-# 📷 Dashboard Preview
-
-The following screenshot provides an overview of the **Financial Intelligence Dashboard**, including key financial KPIs, geographic sales analysis, customer segment performance, product performance, financial flow, and monthly profitability trends.
-
-![Financial Intelligence Dashboard](Screenshots/financial-intelligence-dashboard.png)
-
 ### Dashboard Highlights
 
 - 💰 **Total Sales:** $118.73M
