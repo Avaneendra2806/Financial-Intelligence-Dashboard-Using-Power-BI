@@ -218,12 +218,12 @@ Profit             $16.89M
 # 🛠️ Tech Stack
 ### Core Technologies
 
-- **Microsoft Power BI**
-- **Power Query**
-- **DAX (Data Analysis Expressions)**
-- **Data Modeling**
-- **Interactive Data Visualization**
-- **KPI Development**
-- **Financial Analysis**
-- **Business Intelligence**
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Interactive Data Visualization
+- KPI Development
+- Financial Analysis
+- Business Intelligence
 ---
