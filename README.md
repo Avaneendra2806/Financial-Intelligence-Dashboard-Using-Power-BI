@@ -226,4 +226,15 @@ Profit             $16.89M
 - KPI Development
 - Financial Analysis
 - Business Intelligence
+
+## 👨‍💻 Author
+**Avaneendra Swayampakala**
+🎯 Looking for Entry Level Full time Data Analyst/Associate Data Analyst
+### 💼 Skills
+- 📗 Excel
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 📈 Statistical Analysis
+- ☁️ Cloud Analytics — Google BigQuery, Looker
 ---
