@@ -229,7 +229,7 @@ Profit             $16.89M
 
 ## 👨‍💻 Author
 **Avaneendra Swayampakala**
-🎯 Looking for Entry Level Full time Data Analyst/Associate Data Analyst
+🎯 Looking for Entry Level Full time Data Analyst/Associate Business Intelligence Analyst
 ### 💼 Skills
 - 📗 Excel
 - 🐍 Python
